@@ -5,6 +5,7 @@ draft = false
 +++
 ### 中文通用大模型综合性基准SuperCLUE
 
+
 ### SuperCLUE能力评估结构图
 ![能力评估结构图](/img/category09.png)
 
